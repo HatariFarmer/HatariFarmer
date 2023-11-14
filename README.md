@@ -1,10 +1,4 @@
-Hatari Farmer - Hatari    
-A lifetime learner with motivated inquistiveness and passion to excel.
-
-Currently i am studying Wed Developement in hopes of designing interactive  
-websites that challenge social restriction.
-
-Quotable: 
+Quotable:   
 "Believe those who are seeking the truth. Doubt those who find it"  
 ....by Andre Gide   
 <!--
